@@ -9,6 +9,5 @@ dependencies:
  - r-dplyr=1.0.8=r41h7525677_0 
  - r-seurat=4.1.0=r41h03ef668_0
  - r-patchwork=1.1.1=r41hc72bb7e_0
- - python=3.10.2=h2265c99_0_cpython
  - umap-learn=0.5.2=py310hff52083_1
  - r-cowplot=1.1.1=r41hc72bb7e_0
