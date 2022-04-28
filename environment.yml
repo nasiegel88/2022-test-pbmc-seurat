@@ -2,6 +2,7 @@ name: test-env
 channels:
   - bioconda
   - conda-forge
+  - conda-forge/label/broken
 dependencies:
  - Jupyter
  - r-irkernel=1.2=r41hc72bb7e_0
